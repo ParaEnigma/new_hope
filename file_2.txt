@@ -1,3 +1,4 @@
+Another insert
 Inserting line 1
 Inserting line 2
 Welcome Gitsters!
